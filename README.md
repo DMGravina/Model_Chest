@@ -1,1 +1,1 @@
-
+Aqui eu guardo algumas análises e projetos sobre Machine Learning e modelagem de dados. Meu foco principal é dominar os conceitos que fazem a máquina se tornar autônoma para cumprir com suas demandas.
