@@ -12,3 +12,4 @@ Considerando que o objetivo deste respositório é guardar e expor meu conhecime
 
 > Exemplos demonstrados:
 > - KNN (K-Nearest Neighbors)
+> - Transformer
