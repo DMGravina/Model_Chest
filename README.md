@@ -1,5 +1,5 @@
 # Informações
-Este repositório é voltado para o armazenamento de projetos de Machine Learning e Redes Neurais que desenvolvi ou comentei. Em sua maioria, são análises de Notebooks onde busco descrever meu raciocínio.
+Este repositório é voltado para o armazenamento de projetos de Machine Learning e Redes Neurais que desenvolvi ou comentei. Em sua maioria, são análises de Notebooks, onde busco descrever meu raciocínio, e arquivos de modelos.
 
 > Competências resultantes desse repositório:
 > - Programação em Python
