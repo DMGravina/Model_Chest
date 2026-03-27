@@ -1,4 +1,4 @@
-# Modelos Inteligentes
+# 🤖 Modelos Inteligentes
 ## Resumo
 Este repositório é voltado para o armazenamento de Modelos de Inteligência Artificial que desenvolvi. Cada modelo tem uma função e uma complexidade específica; alguns estão sendo usados em outros repositórios.
 
