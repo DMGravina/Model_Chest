@@ -1,15 +1,14 @@
-# Informações
-Este repositório é voltado para o armazenamento de projetos de Machine Learning e Redes Neurais que desenvolvi ou comentei. Em sua maioria, são análises de Notebooks, onde busco descrever meu raciocínio, e arquivos de modelos.
+# Modelos Inteligêntes
 
-> Competências resultantes desse repositório:
+## Resumo
+Este repositório é voltado para o armazenamento de Modelos de Inteligência Artificial que desenvolvi. Cada modelo tem uma função e uma complexidade específica; alguns estão sendo usados em outros repositórios.
+
+## Competências resultantes desse repositório:
 > - Programação em Python
 > - Análise exploratória de Dados
 > - Análise lógica de resultados estatísticos
 > - Conhecimentos base para Inteligência Artificial
 
 ## Modelos Trabalhados
-Considerando que o objetivo deste respositório é guardar e expor meu conhecimento desenvolvido durante e após a faculdade, salvei aqui projetos com diversos modelos de ML e DL com os quais trabalhei.
-
-> Exemplos demonstrados:
 > - KNN (K-Nearest Neighbors)
 > - Transformer
